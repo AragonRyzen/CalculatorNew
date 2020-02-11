@@ -16,6 +16,7 @@ public class Main {
         if (v == 1) {y = x1+x2; System.out.println("Результат сложения = "+ y);}
         if (v == 2) {y = x1-x2; System.out.println("Результат вычитания = "+ y);}
         if (v == 3) {y = x1*x2; System.out.println("Результат умножения = "+ y);}
+        System.out.println("Dangeon master");
         in.close();
     }
 }
